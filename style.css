@@ -1,0 +1,30 @@
+
+
+body {
+    margin: 0;
+    background-color: #012043;
+    color: white;
+}
+
+.cabecalho {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding-top: 20px;
+}
+
+.container {
+    background-color: #D34646;
+    width: 250px;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.container-informacoes {
+    height: 200px;
+}
