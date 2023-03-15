@@ -28,3 +28,11 @@ main {
 .container-informacoes {
     height: 200px;
 }
+
+.led {
+    height: 20px;
+    width: 20px;
+    border: solid black 1px;
+    border-radius: 50%;
+    background-color: blue;
+}
